@@ -8,7 +8,7 @@
 ## 🌟 Social links
 
 - **Telegram**: [@axypedodo](https://t.me/axypedodo)
-- **Email**: pukeotim@example.com
+- **Email**: pukeotim@gmail.com
 
 ---
 
