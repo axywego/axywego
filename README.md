@@ -1,6 +1,6 @@
 ## About me
 
- - **C++ Beginner**
+ - **C++ Beginner.**
  - **I want to become a 3D Engine Developer**.
 
 ---
