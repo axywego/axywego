@@ -1,7 +1,7 @@
 ## About me
 
- - **C++ Beginner.**
- - **I want to become a 2D/3D Engine Developer**.
+ - **C++ Beginner(Junior)**
+ - **Interested in Networks and Game Engines**.
 
 ---
 
@@ -14,6 +14,5 @@
 
 ## 📚 Worked w/
 
-- **C++, CMake**
+- **C++, CMake, Qt, SFML; Python**
 - **HTML, CSS, JS, React**
-- **Python, Qt**
