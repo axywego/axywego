@@ -1,7 +1,7 @@
 ## About me
 
- - **C++ Beginner(Junior)**
- - **Interested in Networks and Game Engines**.
+ - **C++ and Python.**
+ - **Interested in Networks and Game Engines.**
 
 ---
 
@@ -14,5 +14,9 @@
 
 ## 📚 Worked w/
 
-- **C++, CMake, Qt, SFML; Python**
-- **HTML, CSS, JS, React**
+- **C++, CMake, Qt, SFML, Boost/asio**
+- **Python, FastAPI**
+
+## 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=axywego&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axywego&layout=compact&theme=dark)
